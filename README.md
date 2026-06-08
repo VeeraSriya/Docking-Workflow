@@ -1,4 +1,4 @@
-# 🧪 Project 12: Molecular Docking of COX-2 with Celecoxib
+# Molecular Docking of COX-2 with Celecoxib
 
 ## 🎯 Objective
 To study the binding interaction between COX-2 (3LN1) protein and Celecoxib using molecular docking.
