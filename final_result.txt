@@ -1,0 +1,9 @@
+
+Project 12 Docking Result
+
+Protein: COX-2 (3LN1)
+Ligand: Celecoxib
+
+Best Binding Energy: -6.156 kcal/mol
+
+Docking completed successfully using AutoDock Vina 1.2.0
